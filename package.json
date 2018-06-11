@@ -1,0 +1,24 @@
+{
+  "name": "doughnuts-2",
+  "version": "1.0.0",
+  "description": "Deploy full stack applications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Galvanize",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trujilloj/doughnuts-2-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trujilloj/doughnuts-2-server/issues"
+  },
+  "homepage": "https://github.com/trujilloj/doughnuts-2-server#readme"
+}
